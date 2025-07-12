@@ -5,4 +5,3 @@ print(a+(b**c))
 name="arnav"
 age=0
 if name=="arnav" or name=="alex" and age>=2:
-    print("hello")
