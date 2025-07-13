@@ -1,5 +1,0 @@
-temperature=int(input("enter the temperature:"))
-if temperature<30:
-    print("wear hot clothes")
-elif temperature>30:
-    print("wear light clothes")
