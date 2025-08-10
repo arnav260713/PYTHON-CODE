@@ -6,4 +6,4 @@ while i<len(word):
     if word[i]==charactor:
         count=count+1
     i=i+1
-print(count)
+print()
