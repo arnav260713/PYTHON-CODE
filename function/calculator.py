@@ -20,4 +20,10 @@ elif choice=="3":
     print(multiply(1,2))
 elif choice=="4":
     print(divide(1,2))
-
+elif choice=="5":   
+    print(divide(1,2))
+elif choice=="0":
+    print("pl select one thing")
+elif choice==range(5,100000000000000000000000000000000000):
+    print("retry")
+    
